@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://booghauwu.marcotognella.net/sitemap.xml
